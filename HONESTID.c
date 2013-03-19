@@ -1,7 +1,6 @@
 /*
 SPOJ SOLUTION
-Copyright (c) 2011-2013 Péricles Lopes Machado (gogo40), 
-Paulo Ribeiro de Almeida Neto and João Augusto Palmitesta Neto
+Copyright (c) 2011-2013 Péricles Lopes Machado (gogo40)
 
   Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation

@@ -10,4 +10,4 @@ Caso não conheça o SPOJ, então só acessar os seguintes links:
 http://br.spoj.com/
 http://www.spoj.com/
 
-Esses códigos foram escritos por mim e pelos meus parceiros de time o Paulo Ribeiro de Almeida Neto e João Augusto Palmitesta Neto.
+
