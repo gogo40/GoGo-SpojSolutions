@@ -16,3 +16,7 @@ Usuário SPOJ: http://br.spoj.com/users/gogo40/
 Contato: pericles.raskolnikoff[at]gmail.com
 
 Blog: http://falapericles.blogspot.com.br/
+
+Nesse repositório cada problema é resolvido pelo arquivo com seu código associado.
+
+Fiquem à vontade para contribuir com suas soluções!
