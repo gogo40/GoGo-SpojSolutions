@@ -8,6 +8,7 @@ O objetivo desse repositório é apenas armazenar algumas soluções que exigira
 Caso não conheça o SPOJ, então só acessar os seguintes links:
 
 http://br.spoj.com/
+
 http://www.spoj.com/
 
 Usuário SPOJ: http://br.spoj.com/users/gogo40/
