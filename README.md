@@ -1,5 +1,5 @@
-SPOJ_SOLUTIONS
-==============
+GoGo-SpojSolutions
+==================
 
 Como eu me aposentei das competições de programação acadêmica, então resolvi divulgar nesse repositório alguns códigos que resolvem problemas do SPOJ. 
 
